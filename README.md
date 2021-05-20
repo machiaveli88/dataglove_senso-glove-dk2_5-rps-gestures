@@ -7,6 +7,8 @@ The data set consists of rock-paper-scissor gestures of 20 different persons (9 
 Each gesture was performed 10 times in a row by each person. After each gesture, the data glove was recalibrated. The participants were shown a graphic of the respective gesture, otherwise, they were blind to other participants.
 More information about the data acquisition and the data glove can be found in the paper "Rock beats Scissor: SVM based gesture recognition with data gloves" by Achenbach et al. (although a different data set was used there).
 
+Unfortunately the file "Well202101300545" was not saved.
+
 The following data of the data glove were recorded:
 |Value|Datatype|Used|Floats|
 |--|--|--|--|
