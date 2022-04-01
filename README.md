@@ -38,6 +38,6 @@ The data set consists of rock-paper-scissor gestures of 9 different persons (2 f
 
 <img alt="25 gestures" src="rps25.png" width="360">
 
-Unlike the version with 5 gestures, these gestures also depend on the orientation of the hand (e.g. ...). The *Well* and *Match* gestures do not exist in this version (even though the new *Air* gesture has the same handshape as *Well*).
+Unlike the version with 5 gestures, these gestures also depend on the orientation of the hand (e.g. *Paper*, *Axe*, *Water*). The *Well* and *Match* gestures do not exist in this version (even though the new *Air* gesture has the same handshape as *Well*).
 
 We hereby thank David C. Lovelace, who designed this version of the game and from whose site we also used the graphics: [Rock-Paper-Scissors Variants](https://www.umop.com/rps.htm)
