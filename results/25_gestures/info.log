@@ -1,0 +1,133 @@
+INFO:root:Gestures: Rock Paper Scissors Sponge Water Fire Air Woman Gun Wolf Devil Snake Tree Dragon Lightning Sun Axe Monkey Man Cockroach Moon Bowl Alien Nuke Dynamite
+INFO:root:Training data: 2000
+INFO:root:Test data: 250
+INFO:root:Participants: 9
+INFO:root:Test users: ['1'] ['9'] ['7'] ['3'] ['6'] ['4'] ['5'] ['2'] ['8']
+INFO:root:Used features: ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18']
+INFO:root:RepeatedKFold n_splits: None
+INFO:root:RepeatedKFold n_repeats: 1
+INFO:root:Feature threshold: 0
+INFO:root:Optimized: True
+INFO:root:Gestures: Rock Paper Scissors
+INFO:root:Training data: 240
+INFO:root:Test data: 30
+INFO:root:Participants: 9
+INFO:root:Test users: ['2'] ['6'] ['9'] ['7'] ['8'] ['4'] ['3'] ['1'] ['5']
+INFO:root:Used features: ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18']
+INFO:root:RepeatedKFold n_splits: None
+INFO:root:RepeatedKFold n_repeats: 1
+INFO:root:Feature threshold: 0
+INFO:root:Optimized: True
+INFO:root:Gestures: Rock Paper Scissors Sponge Water
+INFO:root:Training data: 400
+INFO:root:Test data: 50
+INFO:root:Participants: 9
+INFO:root:Test users: ['6'] ['1'] ['4'] ['5'] ['3'] ['7'] ['9'] ['8'] ['2']
+INFO:root:Used features: ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18']
+INFO:root:RepeatedKFold n_splits: None
+INFO:root:RepeatedKFold n_repeats: 1
+INFO:root:Feature threshold: 0
+INFO:root:Optimized: True
+INFO:root:Gestures: Rock Paper Scissors Sponge Water Fire Air
+INFO:root:Training data: 560
+INFO:root:Test data: 70
+INFO:root:Participants: 9
+INFO:root:Test users: ['9'] ['8'] ['4'] ['5'] ['6'] ['3'] ['1'] ['7'] ['2']
+INFO:root:Used features: ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18']
+INFO:root:RepeatedKFold n_splits: None
+INFO:root:RepeatedKFold n_repeats: 1
+INFO:root:Feature threshold: 0
+INFO:root:Optimized: True
+INFO:root:Gestures: Rock Paper Scissors Sponge Water Fire Air Woman Gun
+INFO:root:Training data: 720
+INFO:root:Test data: 90
+INFO:root:Participants: 9
+INFO:root:Test users: ['9'] ['1'] ['2'] ['5'] ['3'] ['7'] ['4'] ['8'] ['6']
+INFO:root:Used features: ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18']
+INFO:root:RepeatedKFold n_splits: None
+INFO:root:RepeatedKFold n_repeats: 1
+INFO:root:Feature threshold: 0
+INFO:root:Optimized: True
+INFO:root:Gestures: Rock Paper Scissors Sponge Water Fire Air Woman Gun Wolf Devil
+INFO:root:Training data: 880
+INFO:root:Test data: 110
+INFO:root:Participants: 9
+INFO:root:Test users: ['7'] ['2'] ['6'] ['4'] ['9'] ['5'] ['1'] ['3'] ['8']
+INFO:root:Used features: ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18']
+INFO:root:RepeatedKFold n_splits: None
+INFO:root:RepeatedKFold n_repeats: 1
+INFO:root:Feature threshold: 0
+INFO:root:Optimized: True
+INFO:root:Gestures: Rock Paper Scissors Sponge Water Fire Air Woman Gun Wolf Devil Snake Tree Dragon Lightning
+INFO:root:Training data: 1200
+INFO:root:Test data: 150
+INFO:root:Participants: 9
+INFO:root:Test users: ['1'] ['2'] ['5'] ['9'] ['8'] ['6'] ['4'] ['7'] ['3']
+INFO:root:Used features: ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18']
+INFO:root:RepeatedKFold n_splits: None
+INFO:root:RepeatedKFold n_repeats: 1
+INFO:root:Feature threshold: 0
+INFO:root:Optimized: True

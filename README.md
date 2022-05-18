@@ -3,7 +3,7 @@
 You will find here two datasets for the well-known game Rock-Paper-Scissors in two different versions: First one with 5 different gestures and second one with 25 gestures.
 
 Each gesture was performed 10 times in a row by each person and were recorded with a (right) data glove [Senso Glove DK2](https://senso.me). After each gesture, the data glove was recalibrated. The participants were shown a graphic of the respective gesture, otherwise, they were blind to other participants.
-More information about the data acquisition and the data glove can be found in the paper "Rock beats Scissor: SVM based gesture recognition with data gloves" by Achenbach et al. (although a different data set was used there).
+More information about the data acquisition and the data glove can be found in the paper "Rock beats Scissor: SVM based gesture recognition with data gloves" by Achenbach et al. (although a different data set was used there) and "Paper beats Rock: Elaborating the best machine learning classifier for hand gesture recognition" by Achenbach et al.
 
 The following data of the data glove were recorded:
 |Value|Datatype|Used|Floats|Detail|
@@ -26,11 +26,9 @@ The following data of the data glove were recorded:
 
 ## 5 gesture version
 
-The data set consists of rock-paper-scissor gestures of 20 different persons (9 female, 11 male) between 7 and 72 years old. In addition to the familiar gestures of *Rock*, *Paper*, and *Scissors*, additional gestures for well and match were also recorded:
+The data set consists of rock-paper-scissor gestures of 30 different persons (8 female, 11 male, 11 unknown) between 7 and 72 years old. In addition to the familiar gestures of *Rock*, *Paper*, and *Scissors*, additional gestures for *Well* and *Match* were also recorded:
 
 <img alt="5 gestures" src="rps5.png" width="360">
-
-Unfortunately the file "Well202101300545" was not saved.
 
 ## 25 gesture version
 
