@@ -5,6 +5,16 @@ You will find here two datasets for the well-known game Rock-Paper-Scissors in t
 Each gesture was performed 10 times in a row by each person and were recorded with a (right) data glove [Senso Glove DK2](https://senso.me). After each gesture, the data glove was recalibrated. The participants were shown a graphic of the respective gesture, otherwise, they were blind to other participants.
 More information about the data acquisition and the data glove can be found in the paper "Rock beats Scissor: SVM based gesture recognition with data gloves" by Achenbach et al. (although a different data set was used there) and "Paper beats Rock: Elaborating the best machine learning classifier for hand gesture recognition" by Achenbach et al.
 
+## Data format
+
+Each folder contains the recordings from one participant. From each participant there is a .txt-file for each recorded handshape with the following format: 
+- First line: Label for the handshape.
+- Second line: right or left data glove?
+- Third line: empty
+Now following blocks with the values of the features, each block corresponds to one recording and is terminated by a blank line. Each value is in one line. The order can be taken from the following table, i.e. in the first line of each block is the yaw angle of the thumb, in the second line is the pitch angle of the thumb, in the third line is the w-coordinate of the thumb quaternion, and so on.
+
+### Order of Features:
+
 The following data of the data glove were recorded:
 |Value|Datatype|Used|Floats|Detail|
 |--|--|--|--|--|
